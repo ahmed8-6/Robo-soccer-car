@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-// PMW PINS
+// MOTORS PINS
 #define motor1a 8
 #define motor1b 7 
 #define motor2a 9
